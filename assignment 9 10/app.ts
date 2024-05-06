@@ -23,6 +23,16 @@ console.log(message);
 //a variable age with the value 15, then creates another variable message using a template literal.
 // then print this message.
 
+//program 2
+
+console.log(2+3);
+console.log(5-0);
+console.log(5*1);
+console.log(25 /5)
+// this pogram calculate mathemtical operators and all of them gives the same answer
+
+
+
 //FOR THE TEACHER :
 // this project is only made by ARISHA Ghaffar.
 //me and my sister both uses the same laptop thats why 
