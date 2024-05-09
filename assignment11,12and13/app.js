@@ -18,7 +18,11 @@ for (let name of friends) {
 //Your Own Array: Think of your favorite mode of transportation, such as a motorcycle or a car, 
 //and make a list that stores several examples. Use your list to print a series of statements about these items, 
 //such as “I would like to own a Honda motorcycle.”
-let favouriteTransportation = ["Hilux", "Electrric bike", "Mountain Bicycle"];
+let favouriteTransportation = ["Hilux", "Electric bike", "Mountain Bicycle"];
 for (let brand of favouriteTransportation) {
     console.log(`I would like to own a ${brand}, `);
 }
+//FOR THE TEACHER :
+// this project is only made by arisha Ghaffar.
+//me and my sister both uses the same laptop thats why 
+//whenever we upload our projects on github it shows that this is made by both of us.
