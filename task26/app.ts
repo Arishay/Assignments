@@ -15,3 +15,7 @@ if (alienColor2 === "green") {
 } else {
     console.log("You just earned 10 points.");
 }
+//FOR THE TEACHER :
+//This project is only made by arisha Ghaffar.
+//me and my sister both uses the same laptop thats why
+//whenever we upload our projects on github it shows that this is made by both of us.
